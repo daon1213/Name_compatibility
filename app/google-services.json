@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220640179388",
+    "project_id": "check-app-28bb9",
+    "storage_bucket": "check-app-28bb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220640179388:android:0e4c236064b4075bb2ccb9",
+        "android_client_info": {
+          "package_name": "org.techtown.check_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220640179388-67rgn3kf593oumpku84qge5ahieu3h1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDW_OeuXJiC5nBeUDgjvk7f9J9JYQh4fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220640179388-67rgn3kf593oumpku84qge5ahieu3h1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.techtown.check_app">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_love"
+        android:label="@string/app_name"
+        android:name=".di.App"
+        android:roundIcon="@mipmap/ic_love_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Check_App">
+    </application>
+
+</manifest>
