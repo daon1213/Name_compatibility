@@ -26,6 +26,7 @@
             app:layout_constraintTop_toTopOf="parent">
 
             <TextView
+                android:fontFamily="@font/clova_"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
@@ -35,6 +36,7 @@
                 android:textStyle="bold"
                 />
             <EditText
+                android:fontFamily="@font/clova_"
                 android:id="@+id/name_edit_txt"
                 android:layout_marginTop="10dp"
                 android:layout_width="match_parent"

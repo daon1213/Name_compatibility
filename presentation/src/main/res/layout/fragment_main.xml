@@ -17,6 +17,7 @@
         tools:context=".view.MainFragment">
 
         <TextView
+            android:fontFamily="@font/clova_"
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -63,6 +64,7 @@
             tools:layout_editor_absoluteX="25dp">
 
             <TextView
+                android:fontFamily="@font/clova_"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="현재 100% 궁합자 현황"
@@ -71,6 +73,7 @@
                 android:textStyle="bold" />
 
             <TextView
+                android:fontFamily="@font/clova_"
                 android:id="@+id/statistics"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
